@@ -1,0 +1,24 @@
+form {
+   display: inline-block;
+}
+.form-group {
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+#file {
+margin-top: 10px;
+
+}
+
+.list-group-item {
+    display: list-item;
+}
+
+.thumbnail img {
+  max-height: 150px;
+  width: auto;
+}
+body {
+  padding-top: 70px;
+}
